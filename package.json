@@ -1,0 +1,14 @@
+{
+  "name": "geeksforgeeks-algo-practise",
+  "version": "1.0.0",
+  "description": "geek for geeks algorithm practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "algo"
+  ],
+  "author": "sunny",
+  "license": "MIT"
+}
